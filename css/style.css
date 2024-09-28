@@ -1387,7 +1387,7 @@ h3 {
 }
 
 .hero {
-  background: url("../assets/image/hero-bg-min.png") no-repeat center/cover;
+  background: url("../images/hero-bg-min.png") no-repeat center/cover;
   min-height: 950px;
   display: flex;
   align-items: center;
@@ -3180,7 +3180,7 @@ h3 {
 /* customers css part end  */
 .customers {
   padding: 93px 0 120px 0;
-  background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+  background: url(../images/Customer-bg.png) no-repeat center/cover;
 }
 .customers .coustomers-text {
   text-align: center;
@@ -3468,7 +3468,7 @@ h3 {
 }
 
 .customer-4 {
-  background: url(/assets/image/customer-bg.png) no-repeat center/cover;
+  background: url(../images/customer-bg.png) no-repeat center/cover;
   padding: 110px 0 0px 0;
   margin-bottom: -16px;
 }
@@ -3832,7 +3832,7 @@ h3 {
 }
 
 .send .send-item {
-  background: url(../assets/image/others/send.png) no-repeat center/cover;
+  background: url(../images/send.png) no-repeat center/cover;
   padding: 52px 32px 67px 32px;
 }
 .send .send-item .send-inner {
@@ -4811,7 +4811,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -6742,7 +6742,7 @@ h3 {
 }
 
 .hero {
-  background: url("../assets/image/hero-bg-min.png") no-repeat center/cover;
+  background: url("../images/hero-bg-min.png") no-repeat center/cover;
   min-height: 950px;
   display: flex;
   align-items: center;
@@ -7973,7 +7973,7 @@ h3 {
 /* customers css part end  */
 .customers {
   padding: 93px 0 120px 0;
-  background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+  background: url(../images/Customer-bg.png) no-repeat center/cover;
 }
 .customers .coustomers-text {
   text-align: center;
@@ -9469,7 +9469,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -11400,7 +11400,7 @@ h3 {
 }
 
 .hero {
-  background: url("../assets/image/hero-bg-min.png") no-repeat center/cover;
+  background: url("../images/hero-bg-min.png") no-repeat center/cover;
   min-height: 950px;
   display: flex;
   align-items: center;
@@ -13311,7 +13311,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -14563,7 +14563,7 @@ p {
 /* customers css part end  */
 .customers {
   padding: 93px 0 120px 0;
-  background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+  background: url(../images/Customer-bg.png) no-repeat center/cover;
 }
 .customers .coustomers-text {
   text-align: center;
@@ -14992,7 +14992,7 @@ p {
 }
 
 .send .send-item {
-  background: url(../assets/image/others/send.png) no-repeat center/cover;
+  background: url(../images/send.png) no-repeat center/cover;
   padding: 52px 32px 67px 32px;
 }
 .send .send-item .send-inner {
@@ -18078,7 +18078,7 @@ p {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -19366,7 +19366,7 @@ p {
 /* customers css part end  */
 .customers {
   padding: 93px 0 120px 0;
-  background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+  background: url(../images/Customer-bg.png) no-repeat center/cover;
 }
 .customers .coustomers-text {
   text-align: center;
@@ -19795,7 +19795,7 @@ p {
 }
 
 .send .send-item {
-  background: url(../assets/image/others/send.png) no-repeat center/cover;
+  background: url(../images/send.png) no-repeat center/cover;
   padding: 52px 32px 67px 32px;
 }
 .send .send-item .send-inner {
@@ -23276,7 +23276,7 @@ p {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -24564,7 +24564,7 @@ p {
 /* customers css part end  */
 .customers {
   padding: 93px 0 120px 0;
-  background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+  background: url(../images/Customer-bg.png) no-repeat center/cover;
 }
 .customers .coustomers-text {
   text-align: center;
@@ -24993,7 +24993,7 @@ p {
 }
 
 .send .send-item {
-  background: url(../assets/image/others/send.png) no-repeat center/cover;
+  background: url(../images/send.png) no-repeat center/cover;
   padding: 52px 32px 67px 32px;
 }
 .send .send-item .send-inner {
@@ -28654,7 +28654,7 @@ p {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -31665,7 +31665,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -34075,7 +34075,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -36775,7 +36775,7 @@ h3 {
 /* customers css part end  */
 .customers {
   padding: 93px 0 120px 0;
-  background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+  background: url(../images/Customer-bg.png) no-repeat center/cover;
 }
 .customers .coustomers-text {
   text-align: center;
@@ -37162,7 +37162,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -40826,7 +40826,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -44885,7 +44885,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -49746,7 +49746,7 @@ p {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -54607,7 +54607,7 @@ p {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -59468,7 +59468,7 @@ p {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -64329,7 +64329,7 @@ p {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -67029,7 +67029,7 @@ h3 {
 /* customers css part end  */
 .customers {
   padding: 93px 0 120px 0;
-  background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+  background: url(../images/Customer-bg.png) no-repeat center/cover;
 }
 .customers .coustomers-text {
   text-align: center;
@@ -67416,7 +67416,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -70427,7 +70427,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -73042,7 +73042,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -75657,7 +75657,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -78349,7 +78349,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -80654,7 +80654,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -83828,7 +83828,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -85944,7 +85944,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -88060,7 +88060,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -90877,7 +90877,7 @@ h3 {
 }
 
 .send .send-item {
-  background: url(../assets/image/others/send.png) no-repeat center/cover;
+  background: url(../images/send.png) no-repeat center/cover;
   padding: 52px 32px 67px 32px;
 }
 .send .send-item .send-inner {
@@ -91476,7 +91476,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -95140,7 +95140,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -98903,7 +98903,7 @@ p {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -103764,7 +103764,7 @@ p {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -107428,7 +107428,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -109536,7 +109536,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -111548,7 +111548,7 @@ h3 {
 /* customers css part end  */
 .customers {
   padding: 93px 0 120px 0;
-  background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+  background: url(../images/Customer-bg.png) no-repeat center/cover;
 }
 .customers .coustomers-text {
   text-align: center;
@@ -111935,7 +111935,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -114066,7 +114066,7 @@ h3 {
 /* customers css part end  */
 .customers {
   padding: 93px 0 120px 0;
-  background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+  background: url(../images/Customer-bg.png) no-repeat center/cover;
 }
 .customers .coustomers-text {
   text-align: center;
@@ -114453,7 +114453,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -116358,7 +116358,7 @@ h3 {
 /* customers css part end  */
 .customers {
   padding: 93px 0 120px 0;
-  background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+  background: url(../images/Customer-bg.png) no-repeat center/cover;
 }
 .customers .coustomers-text {
   text-align: center;
@@ -116745,7 +116745,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -119564,7 +119564,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -122100,7 +122100,7 @@ h3 {
 /* customers css part end  */
 .customers {
   padding: 93px 0 120px 0;
-  background: url(../assets/image/others/banner/Customer-bg.png) no-repeat center/cover;
+  background: url(../images/Customer-bg.png) no-repeat center/cover;
 }
 .customers .coustomers-text {
   text-align: center;
@@ -122535,7 +122535,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -124263,7 +124263,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
@@ -126263,7 +126263,7 @@ h3 {
 
 footer {
   padding-top: 120px;
-  background: url(../assets/image/others/banner/Footer-bg.png) no-repeat center/cover;
+  background: url(../images/footer-bg.png) no-repeat center/cover;
 }
 
 .footer-logo-item {
